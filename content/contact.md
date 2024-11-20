@@ -5,7 +5,7 @@ draft: false
 featured_image: ../assets/images/defaults/featured_image.jpg
 ---
 
-# Tell us what to do...
+# Let's Get in Touch!
 
 <form action="#" method="POST" class="">
   <div class="">
