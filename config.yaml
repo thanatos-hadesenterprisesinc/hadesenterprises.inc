@@ -13,9 +13,9 @@ params:
   author:
   og_image: /images/defaults/featured_image.jpg
   moto: "Hades Enterprises"
-  description: "World's leading manufacturer of funeral equipment"
+  description: "We believe customer experiences are enriched when you integrate data-driven models."
   cta:
-    text: What's more?
+    text: We're Open Source!
     url: https://github.com/thanatos-hadesenterprisesinc
 
 markup:
