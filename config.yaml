@@ -1,4 +1,4 @@
-baseURL: 'https://hadesenterprises.inc'
+baseURL: 'https://hadesenterprisesinc.com'
 title: 'Hades Enterprises'
 languageCode: en-us
 DefaultContentLanguage: en
@@ -17,10 +17,6 @@ params:
   cta:
     text: What's more?
     url: https://github.com/thanatos-hadesenterprisesinc
-
-taxonomies:
-  category: Categories
-  tag: Tags
 
 markup:
   goldmark:
