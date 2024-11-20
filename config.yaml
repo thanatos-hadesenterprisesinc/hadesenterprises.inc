@@ -1,0 +1,33 @@
+baseURL: 'https://hadesenterprises.inc'
+title: 'Hades Enterprises'
+languageCode: en-us
+DefaultContentLanguage: en
+enableEmoji: true
+enableGitInfo: true
+enableRobotsTXT: true
+canonifyURLs: true
+paginate: 9
+enableInlineShortcodes: true
+
+params:
+  author:
+  og_image: /images/defaults/featured_image.jpg
+  moto: "Hades Enterprises"
+  description: "World's leading manufacturer of funeral equipment"
+  cta:
+    text: What's more?
+    url: https://github.com/thanatos-hadesenterprisesinc
+
+taxonomies:
+  category: Categories
+  tag: Tags
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+module:
+  hugoVersion:
+    extended: true
+    min: "0.110.0"
