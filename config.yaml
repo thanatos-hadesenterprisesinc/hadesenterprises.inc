@@ -15,8 +15,8 @@ params:
   moto: "Hades Enterprises"
   description: "We believe customer experiences are enriched when you integrate data-driven models."
   cta:
-    text: We're Open Source!
-    url: https://github.com/thanatos-hadesenterprisesinc
+    text: Meet Our CEO!
+    url: https://www.greekmythology.com/Olympians/Hades/hades.html
 
 markup:
   goldmark:
