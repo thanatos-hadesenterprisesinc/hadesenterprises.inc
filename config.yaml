@@ -12,6 +12,7 @@ enableInlineShortcodes: true
 params:
   author:
   og_image: /images/defaults/featured_image.jpg
+  HACKED_IMAGE: /images/defaults/YOU_HAVE_BEEN_HACKED.jpg
   moto: "Hades Enterprises"
   description: "We believe customer experiences are enriched when you integrate data-driven models."
   cta:
